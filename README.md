@@ -1,11 +1,18 @@
 # Daily-Transaction-Dashboard
-Transforming Daily Expenses into Meaningful Insights | Power BI Dashboard
+Built an interactive Daily Household Transactions Dashboard in Power BI to track personal finances. The report ingests transaction data (date, mode, category, subcategory, amount) and delivers actionable insights — total income & expense, net savings, category and payment-mode breakdowns, MTD/YTD figures, MoM & YoY growth, and cumulative spend. Cleaned and modeled data with Power Query and a proper Date table, authored dynamic DAX measures (including a slicer-driven dynamic Income/Expense measure), and designed multi-page reports with synchronized slicers and bookmarks for an intuitive user experience. Result: a compact, visual tool to spot spending trends and make data-driven budgeting decisions.
 
-#PowerBI #DataAnalytics #DashboardDesign #DAX #PersonalFinance
+📊 Project Description
 
-I’m excited to share my latest Power BI project — a Daily Household Transactions Dashboard designed to help monitor and analyze everyday income and expenses with clarity and precision.
+This project focuses on analyzing daily household transactions to help users understand income flow, expense distribution, and overall savings trends.
+The dashboard provides:
 
-Managing personal finances can be challenging, so I built a dashboard that converts routine transaction data into actionable insights through clean visuals, DAX measures, and an easy-to-navigate layout.
+🔹 Total Income, Total Expense & Net Balance
+🔹 Top Spending Categories (Food, Utilities, Transport, etc.)
+🔹 Payment Mode Analysis (UPI, Cash, Card)
+🔹 Monthly Trend of Income vs. Expense
+🔹 Expense Breakdown by Category & Day
+🔹 Interactive Slicers for quick drilldowns
+🔹 Multi-page Dashboard including Summary, Expense Insights, Income Insights, and Category Deep Dive
 
 🛠 Tech Stack
 
