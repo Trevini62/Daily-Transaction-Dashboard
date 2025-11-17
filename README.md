@@ -20,6 +20,15 @@ The dashboard provides:
 
 🔹 Multi-page Dashboard including Summary, Expense Insights, Income Insights, and Category Deep Dive
 
+📊 Project Highlights
+
+Built a multi-page dashboard with slicers, KPIs & navigation bookmarks
+
+Analyzed course ratings, enrollments, and instructor revenue contribution
+
+Identified patterns in discount strategy and user engagement
+
+Designed a clean, modern visual theme for better user experience
 
 🛠 Tech Stack
 
