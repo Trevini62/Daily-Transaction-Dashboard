@@ -7,12 +7,19 @@ This project focuses on analyzing daily household transactions to help users und
 The dashboard provides:
 
 🔹 Total Income, Total Expense & Net Balance
+
 🔹 Top Spending Categories (Food, Utilities, Transport, etc.)
+
 🔹 Payment Mode Analysis (UPI, Cash, Card)
+
 🔹 Monthly Trend of Income vs. Expense
+
 🔹 Expense Breakdown by Category & Day
+
 🔹 Interactive Slicers for quick drilldowns
+
 🔹 Multi-page Dashboard including Summary, Expense Insights, Income Insights, and Category Deep Dive
+
 
 🛠 Tech Stack
 
